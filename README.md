@@ -82,7 +82,9 @@ git commit -m "Agregar entidad Libro"
 git commit -m "Fix: corregir validación de autor"
 
 📂 Estructura inicial del proyecto
+
 src/main/java/com/biblioteca
+
  ├── controller
  ├── model
  ├── repository
