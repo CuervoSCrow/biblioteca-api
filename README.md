@@ -107,17 +107,17 @@ src/main/java/com/biblioteca
 
 👥 Equipo
 
-Líder: [Tu Nombre]
+Líder: [Ulises]
 
 Integrantes:
 
- Miembro 1
+ Miembro Ulises
 
- Miembro 2
+ Miembro Ulises
 
- Miembro 3
+ Miembro Ulises
 
- Miembro 4
+ Miembro Ulises
 
 
 ---
